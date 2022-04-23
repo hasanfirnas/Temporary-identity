@@ -1,0 +1,5 @@
+pyperclip==1.8.1
+urllib3==1.26.3
+requests==2.25.0
+names==0.3.0
+regex==2021.8.21
